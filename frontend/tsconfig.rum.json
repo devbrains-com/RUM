@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "public",
+    "esModuleInterop": true
+  },
+  "include": ["src/rum.ts", "src/block.ts"]
+}

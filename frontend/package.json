@@ -1,0 +1,21 @@
+{
+  "name": "rum",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts",
+    "rum": "tsc --project tsconfig.rum.json"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "@types/node-fetch": "^2.5.5",
+    "prettier": "^1.19.1",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.8.3"
+  }
+}
