@@ -6,7 +6,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   },
   "devDependencies": {
     "@types/express": "^4.17.2",
